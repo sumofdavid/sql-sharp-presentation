@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Presentation">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="BIGAZZTABLET:BIGAZZTABLET\David">
+          <Created>2013-06-03T17:50:11.5802327-07:00</Created>
+          <Type>SQL</Type>
+          <Server>BIGAZZTABLET</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="(00) Create Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(00) Create Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(01) SQLsharp_SETUP_FullVersion_3.1.74.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(01) SQLsharp_SETUP_FullVersion_3.1.74.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(02) SQLSharp_SetSecurity.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(02) SQLSharp_SetSecurity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(03) RegEx_IsMatch.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(03) RegEx_IsMatch.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(04) RegEx_Matches.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(04) RegEx_Matches.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(05) RegEx_Replace.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(05) RegEx_Replace.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(06) RegEx_CaptureGroups.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(06) RegEx_CaptureGroups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(07) String_Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(07) String_Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(08) String_Count.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(08) String_Count.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(09) String_WordWrap.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(09) String_WordWrap.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(10) String_Split.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(10) String_Split.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(11) String_SplitKeyValuePairs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(11) String_SplitKeyValuePairs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(15) Math_CompoundAmortizationSchedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(15) Math_CompoundAmortizationSchedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(16) Math_Convert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(16) Math_Convert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(19) Util_GenerateInts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(19) Util_GenerateInts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(20) Util_ToWords.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(20) Util_ToWords.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(21) Util_IsValidConvert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(21) Util_IsValidConvert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(22) Util_GZip.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(22) Util_GZip.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(23) Util_GenerateDateTimeRange.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(23) Util_GenerateDateTimeRange.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(24) DB_BulkCopy.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(24) DB_BulkCopy.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(25) DB_BulkExport.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(25) DB_BulkExport.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(26) DB_DumpData.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(26) DB_DumpData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(29) INET_DownloadFile.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(29) INET_DownloadFile.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(30) INET_SplitIntoFields.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(30) INET_SplitIntoFields.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(31) INET_URIGetInfo.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(31) INET_URIGetInfo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(35) File_CopyMultiple.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(35) File_CopyMultiple.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(36) File_GetDirectoryListing.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(36) File_GetDirectoryListing.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(37) File_GZip.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(37) File_GZip.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(40) Date_NthOccurrenceOfWeekday.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(40) Date_NthOccurrenceOfWeekday.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(41) Date_FormatTimeSpan.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGAZZTABLET:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGAZZTABLET</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>(41) Date_FormatTimeSpan.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(42) Date_BusinessDays.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(42) Date_BusinessDays.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(43) Date_BusinessDaysAdd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(43) Date_BusinessDaysAdd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="(46) Sys_Objects.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(46) Sys_Objects.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
